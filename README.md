@@ -12,5 +12,5 @@ Major concentrations :
  
 > Importing JSON data 
 
-> Working with API
+> Working with 
 
